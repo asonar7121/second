@@ -7,6 +7,9 @@ public class testingthis
 	{
 		
 	System.out.println("amol");	
+	System.out.println("amol");	
+	System.out.println("amol");	
+	System.out.println("amol");	
 
 	}
 
